@@ -1,3 +1,4 @@
+# Лев Дорошенко ИБ/б-21-1-о
 #Input : Henon Encrypted Image
 #Processing:
     #get pixel values of Henon Encrypted Image
